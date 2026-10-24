@@ -1,2 +1,2 @@
-# An-sthesie-FKT
+# Anaesthesie-FKT
 Meine interaktiven Anästhesie Fortbildungen
